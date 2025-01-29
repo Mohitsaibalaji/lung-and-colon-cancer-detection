@@ -29,15 +29,6 @@ The model classifies images as *Cancerous or Non-Cancerous*.
 ✅ *Data Augmentation*  
 ✅ *Early Stopping* to prevent overfitting  
 
-
-
----  
-
-## *📌 How to Use*  
-1️⃣ Upload an image to Colab.  
-2️⃣ The model predicts whether it’s *Cancerous or Non-Cancerous*.  
-3️⃣ Displays the image with the prediction label.  
-
 ---  
 
 ## *🚀 Technologies Used*  
